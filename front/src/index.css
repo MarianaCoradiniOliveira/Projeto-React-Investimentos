@@ -1,0 +1,15 @@
+/* CSS global, adicionar estilos gerais da aplicação */
+
+body {
+  margin: 20px;
+  background-color: blanchedalmond;
+}
+
+h1{
+  color: blue;
+}
+
+p{
+  background-color: brown;
+  padding: 10px;
+}
