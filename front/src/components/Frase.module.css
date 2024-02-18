@@ -1,0 +1,12 @@
+/* CSS mais específico */
+
+.fraseContainer{
+    background-color: aquamarine;
+    border: 2px solid black;
+}
+
+.fraseContent{
+    color: white;
+    background-color: blueviolet;
+    margin: 0;
+}
