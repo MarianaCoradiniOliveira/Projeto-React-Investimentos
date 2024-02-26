@@ -17,17 +17,13 @@ function App() {
       </ul>        
       <Container customClass="min-height">
         <Routes>
-          <Route path='/' element={<Home></Home>}>
-            <Home/>
+          <Route path='/' element={<Home/>}>
           </Route>
           <Route path='/company' element={<Company/>}>
-            <Company/>
           </Route>
           <Route path='/contact' element={<Contact/>}>
-            <Contact/>
           </Route>
           <Route path='/newproject' element={<NewProject/>}>
-            <NewProject/>
           </Route>
         </Routes>
       </Container>
